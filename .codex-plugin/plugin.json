@@ -1,0 +1,24 @@
+{
+  "name": "soundslikeme",
+  "version": "1.0.0",
+  "description": "Builds a personal VOICE.md profile from 5-10 authentic human-written samples (captions, DMs, transcripts, emails) and rewrites AI drafts to match your real cadence, phrasing, and vocabulary.",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks-codex.json",
+  "interface": {
+    "displayName": "soundslikeme",
+    "shortDescription": "Extracts your real voice from 5-10 human samples into VOICE.md and rewrites drafts to match.",
+    "longDescription": "Builds a personal VOICE.md profile from 5-10 authentic human-written samples (captions, DMs, transcripts, emails) and rewrites AI drafts to match your real cadence, phrasing, and vocabulary.",
+    "developerName": "Alessandro Smedile",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/alexsmedile/soundslikeme",
+    "defaultPrompt": [
+      "Build my VOICE.md from these 6 posts I wrote myself",
+      "Rewrite this draft using my VOICE.md so it actually sounds like me"
+    ],
+    "brandColor": "#E51717"
+  }
+}

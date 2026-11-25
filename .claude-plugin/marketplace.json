@@ -1,0 +1,34 @@
+{
+  "name": "soundslikeme",
+  "owner": {
+    "name": "Alessandro Smedile"
+  },
+  "metadata": {
+    "description": "Builds a personal VOICE.md profile from 5-10 authentic human-written samples (captions, DMs, transcripts, emails) and rewrites AI drafts to match your real cadence, phrasing, and vocabulary.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "soundslikeme",
+      "source": "./",
+      "description": "Builds a personal VOICE.md profile from 5-10 authentic human-written samples (captions, DMs, transcripts, emails) and rewrites AI drafts to match your real cadence, phrasing, and vocabulary.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alessandro Smedile"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/alexsmedile/soundslikeme",
+      "repository": "https://github.com/alexsmedile/soundslikeme",
+      "keywords": [
+        "skills",
+        "claude-code",
+        "soundslikeme",
+        "voice-dna",
+        "writing",
+        "brand-voice",
+        "anti-ai"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
